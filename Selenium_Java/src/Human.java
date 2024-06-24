@@ -26,12 +26,12 @@ public class Human {
 	
 	void display(String b, int a)
 	{
-		System.out.println(" String and Integer argument");
+		System.out.println("String and Integer argument");
 	}
 	
 	void display(String b, int a, String c)
 	{
-		System.out.println(" String, Integer and String argument");
+		System.out.println("String, Integer and String argument");
 	}
 
 

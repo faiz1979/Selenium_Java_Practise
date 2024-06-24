@@ -17,13 +17,13 @@ public class practise1 {
 	
 	public String newMethod1()
 	{
-		System.out.println("Hello World");
+		System.out.println("Hello World!");
 		return "My name is Faiz Mujawar";
 	}
 	
 	public static String newMethod2()
 	{
-		System.out.println("Hello World");
+		System.out.println("Hello World!");
 		return "My name is Faiz Mujawar";
 	}
 }
